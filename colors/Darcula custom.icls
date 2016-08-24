@@ -3,7 +3,7 @@
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Andale Mono" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <colors>
     <option name="SELECTION_BACKGROUND" value="2357a0" />
   </colors>
@@ -62,8 +62,9 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff2603" />
-        <option name="ERROR_STRIPE_COLOR" value="fe2704" />
+        <option name="EFFECT_COLOR" value="ff2603" />
+        <option name="ERROR_STRIPE_COLOR" value="ff2603" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
@@ -82,7 +83,7 @@
       <value>
         <option name="EFFECT_COLOR" value="ff7102" />
         <option name="ERROR_STRIPE_COLOR" value="ff7102" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -99,8 +100,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff7102" />
+        <option name="EFFECT_COLOR" value="ff7102" />
         <option name="ERROR_STRIPE_COLOR" value="ff7102" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
