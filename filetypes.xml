@@ -8,6 +8,7 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="yarn.lock" />
     </extensionMap>
   </component>
 </application>
